@@ -69,6 +69,7 @@ images = ["/images/avatar.png"]
 avatarURL = "/images/avatar.png"
 title = "Luca Hennemann (Screamz2k)"
 subtitle = "A blog about programming and cybersecurity"
+
 [params.social]
   github = "screamz2k"
   linkedin = "luca-hennemann"
