@@ -49,7 +49,7 @@ theme = "LoveIt"
 defaultTheme = "auto"
 gitRepo="https://github.com/screamz2k/screamz2k.github.io"
 title = "Screamz' Blog"
-images = ["/images/avatarUrl.png"]
+images = ["/images/avatar.png"]
 
 [params.header.title]
   name = "Screamz' Blog"
