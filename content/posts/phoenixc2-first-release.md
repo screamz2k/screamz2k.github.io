@@ -10,7 +10,7 @@ draft: false
 ## Introduction
 ![Preview](/images/phoenixc2/web-interface.png)
 PhoenixC2 is a free & open source C2 framework for Red Teams. It is written in Python3 
-and uses for it's REST API. It is designed to be easy to use and easy to extend.
+and uses Flask for it's REST API. It is designed to be easy to use and easy to extend.
 This is the **first** release of PhoenixC2, so there are still many features missing.
 
 ## Features
@@ -50,7 +50,7 @@ Using [Insomnia REST Client](https://insomnia.rest/) is the only way to use Phoe
 ## Contributing
 Any type of contribution would mean a lot to me. You can contribute by reporting bugs, suggesting new features,creating pull requests, or improving the documentation. But please follow the [Contribution Guidelines](https://github.com/screamz2k/PhoenixC2/blob/main/.github/CONTRIBUTING.md).
 
-As this is my first serious open source project, I am very happy to receive any kind of feedback.
+As this is my first serious open source project, I would be very happy to receive any kind of feedback.
 
 ## Links
 - [Github](https://github.com/screamz2k/PhoenixC2)
